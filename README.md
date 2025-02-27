@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Kelumsameera/Kelumsameera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kelum Sameera, a passionate developer from Sri Lanka.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Flutter
+- Dart
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Advanced Flutter
+- Machine Learning
+
+## 📫 How to reach me
+- Email: kelumsameera@example.com
+- LinkedIn: [Kelum Sameera](https://www.linkedin.com/in/kelumsameera)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelumsameera&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kelumsameera&theme=onedark)
