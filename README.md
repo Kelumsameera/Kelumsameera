@@ -389,11 +389,16 @@ I'm always open to interesting projects and collaborations! Here's what I can he
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
 
 ---
 
