@@ -36,7 +36,7 @@ const kelumSameera = {
     technologies: {
         mobile: ["Flutter", "React Native"],
         frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "FastAPI", "Laravel"],
+        backend: ["Node.js", "Express", "FastAPI", "Laravel,"python Flask"],
         databases: ["PostgreSQL", "MongoDB", "Firebase", "MySQL"],
         devOps: ["Docker", "AWS", "GCP", "Vercel"],
         tools: ["Git", "VS Code", "Figma", "Postman"]
