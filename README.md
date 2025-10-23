@@ -262,15 +262,21 @@ const projects = {
 </div>
 
 ---
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
+  <h3>Watch My Contributions Come Alive 🐍</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/main/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/main/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/main/github-contribution-grid-snake.svg" width="90%">
   </picture>
 </div>
+
+---
+
 
 
 ---
@@ -309,3 +315,4 @@ If you find my projects helpful or inspiring:
 <div align="center">
   <sub>Last Updated: October 2025 | Made with ❤️ by Kelum Sameera</sub>
 </div>
+![GitHub Snake Animation](https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/main/github-contribution-grid-snake.svg)
