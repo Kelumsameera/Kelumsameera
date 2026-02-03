@@ -312,7 +312,4 @@ If you find my projects helpful or inspiring:
 
 ---
 
-<div align="center">
-  <sub>Last Updated: October 2025 | Made with ❤️ by Kelum Sameera</sub>
-</div>
-![GitHub Snake Animation](https://raw.githubusercontent.com/Kelumsameera/Kelumsameera/main/github-contribution-grid-snake.svg)
+
